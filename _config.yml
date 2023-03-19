@@ -10,3 +10,8 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+social-network-links:
+  email: "dennis.boeynaems@microsoft.com"
+  github: bdennisb
+  twitter: @dennisboeynaems
+  linkedin: https://linkedin.com/dennisboeynaems
