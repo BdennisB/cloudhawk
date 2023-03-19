@@ -15,3 +15,6 @@ social-network-links:
   github: bdennisb
   twitter: "@dennisboeynaems"
   linkedin: https://linkedin.com/dennisboeynaems
+share-links-active:
+  twitter: true
+  inkedin: true
